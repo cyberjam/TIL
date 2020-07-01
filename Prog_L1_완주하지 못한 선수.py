@@ -17,3 +17,20 @@ for elem in dct_comp: # 참여자 횟수에서 경기자 횟수 빼기 -> 경기
 
 answer= [elem for elem in dct_part if dct_part[elem]>0][0]
 print(answer)
+
+
+# 다른사람 풀이
+# 각각의 이름에 대한 해시값을 모두 더하고 여기에 참여자 해시값 합을 빼면 미참여자 해시값이 뿅
+# 해시 문제에서 collection을 쓰는 것보다 정답이라 생각함
+def solution(participant, completion):
+    answer = ''
+    temp = 0
+    dic = {}
+    for part in participant:
+        dic[hash(part)] = part
+        temp += int(hash(part)) # 여기서 int로 형변환하는 이유가 궁금
+    for com in completion:
+        temp -= hash(com)
+    answer = dic[temp]
+
+    return answer
