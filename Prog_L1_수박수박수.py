@@ -20,3 +20,16 @@ print("n이 4인 경우: " + water_melon(4));
 
 
 # 오 대박 처음으로 베스트 코드를 이겼다 근소하지만.
+
+
+
+# 다른사람 풀이2
+def water_melon(n):
+    return "수박"*(n//2) + "수"*(n%2)
+
+
+# 실행을 위한 테스트코드입니다.
+print("n이 3인 경우: " + water_melon(3));
+print("n이 4인 경우: " + water_melon(4));
+
+#이게 더 효율적이고 참신하다
