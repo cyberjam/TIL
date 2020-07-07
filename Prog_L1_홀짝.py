@@ -20,3 +20,12 @@ print("결과 : " + evenOrOdd(2))
 
 def solution(num):
     return "Odd" if num%2 else "Even" # 나머지가 1일경우 Odd 이외에는 Even. 완전 깔끔
+
+
+#다른 사람 코드2
+def solution(num):
+    return ["Even", "Odd"][num & 1]
+
+#예전 강사님 코드 응용
+def solution(num):
+    return {0:"Even", 1:"Odd"}[num % 2]
