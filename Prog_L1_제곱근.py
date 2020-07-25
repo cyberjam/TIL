@@ -18,3 +18,12 @@ def nextSqure(n):
     
     
 # 제곱근이 1/2 제곱과 같구나..
+
+
+
+def nextSqure(n):
+    from math import sqrt
+    return "no" if sqrt(n) % 1 else (sqrt(n)+1)**2
+
+
+#1로 나눈 나머지..
