@@ -10,8 +10,8 @@ https://thebook.io/006935/
 |---:|:------------------------|--------------:|:---------------------------------------------------------|
 | 14 | 전화번호 목록           |         14811 | https://programmers.co.kr/learn/courses/30/lessons/42577 |
 | 16 | 위장                    |         11330 | https://programmers.co.kr/learn/courses/30/lessons/42578 |
-|  4 | 기능개발                |         10456 | https://programmers.co.kr/learn/courses/30/lessons/42586 |
-|  5 | 프린터                  |          9683 | https://programmers.co.kr/learn/courses/30/lessons/42587 |
+|  4 | __기능개발__                |         10456 | https://programmers.co.kr/learn/courses/30/lessons/42586 |
+|  5 | __프린터__                  |          9683 | https://programmers.co.kr/learn/courses/30/lessons/42587 |
 |  0 | 주식가격                |          8451 | https://programmers.co.kr/learn/courses/30/lessons/42584 |
 | 13 | 가장 큰 수              |          8361 | https://programmers.co.kr/learn/courses/30/lessons/42746 |
 |  3 | 다리를 지나는 트럭      |          8305 | https://programmers.co.kr/learn/courses/30/lessons/42583 |
