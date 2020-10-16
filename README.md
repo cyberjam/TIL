@@ -14,7 +14,7 @@ https://thebook.io/006935/
 |  5 | __프린터__                  |          9683 | https://programmers.co.kr/learn/courses/30/lessons/42587 |
 |  0 | 주식가격                |          8451 | https://programmers.co.kr/learn/courses/30/lessons/42584 |
 | 13 | 가장 큰 수              |          8361 | https://programmers.co.kr/learn/courses/30/lessons/42746 |
-|  3 | 다리를 지나는 트럭      |          8305 | https://programmers.co.kr/learn/courses/30/lessons/42583 |
+|  3 | __다리를 지나는 트럭__      |          8305 | https://programmers.co.kr/learn/courses/30/lessons/42583 |
 | 18 | 타겟 넘버               |          8211 | https://programmers.co.kr/learn/courses/30/lessons/43165 |
 | 15 | H-Index                 |          7447 | https://programmers.co.kr/learn/courses/30/lessons/42747 |
 |  9 | 피보나치 수             |          7227 | https://programmers.co.kr/learn/courses/30/lessons/12945 |
