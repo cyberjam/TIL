@@ -13,14 +13,18 @@ def solution(bridge_length, weight, truck_weights):
         time += 1
 
         if len(truck_walk)>0: # 지나가는 트럭이 존재한다면
-            truck_walk = [(elem[0],elem[1]+1) for elem in truck_walk] # 지나가고 있는 트럭의 지나간 길이를 이번 회차에 +1 해준다
+            # 지나가고 있는 트럭의 지나간 길이를 이번 회차에 +1 해준다
+            truck_walk = [(elem[0],elem[1]+1) for elem in truck_walk] 
             if truck_walk[0][1] >= bridge_length: # 지나가는 트럭 중 1번째 트럭이 다리 길이 만큼 갔다면
                 walk_pop = truck_walk.pop(0) # 지나 가는 트럭 list에서 pop해주고 지나간 list에 추가한다.
                 truck_pass.append(walk_pop)
                 
         walk_sum = sum([elem[0] for elem in truck_walk]) # 지나가는 트럭들의 총 무게를 계산
-        if len(truck_weights)>0: # 대기 트럭이 남아있다면
-            if walk_sum + truck_weights[0][0] <= weight: # (이번에 대기 트럭 중 1번째 트럭 무게 + 지나가는 트럭들의 총 무게) 가 다리가 지탱할수 있는 무게(weight) 이하라면
+        
+        # 대기 트럭이 남아있다면
+        if len(truck_weights)>0: 
+            # (이번에 대기 트럭 중 1번째 트럭 무게 + 지나가는 트럭들의 총 무게) 가 다리가 지탱할수 있는 무게(weight) 이하라면
+            if walk_sum + truck_weights[0][0] <= weight: 
                 wait_pop = truck_weights.pop(0) # 대기 트럭 1번째 트럭이 지나가는 트럭에 합류할 수 있도록 허가
                 truck_walk.append(wait_pop)
                 
