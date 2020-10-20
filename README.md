@@ -19,7 +19,7 @@ https://thebook.io/006935/
 | 15 | H-Index                 |          7447 | https://programmers.co.kr/learn/courses/30/lessons/42747 |
 |  9 | 피보나치 수             |          7227 | https://programmers.co.kr/learn/courses/30/lessons/12945 |
 |  6 | 124 나라의 숫자         |          6963 | https://programmers.co.kr/learn/courses/30/lessons/12899 |
-| 10 | 더 맵게                 |          6950 | https://programmers.co.kr/learn/courses/30/lessons/42626 |
+| 10 | __더 맵게__                 |          6950 | https://programmers.co.kr/learn/courses/30/lessons/42626 |
 |  1 | 스킬트리                |          6217 | https://programmers.co.kr/learn/courses/30/lessons/49993 |
 | 19 | 카펫                    |          5917 | https://programmers.co.kr/learn/courses/30/lessons/42842 |
 |  7 | 최댓값과 최솟값         |          5693 | https://programmers.co.kr/learn/courses/30/lessons/12939 |
