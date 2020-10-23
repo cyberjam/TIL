@@ -7,7 +7,7 @@
 # import heapq # heapq는 내장함수
 # heapq.heapify(list) # 리스트를 heapq로 변환
 # heapq.heappop(heapq_list) # heapq pop 0 index를 pop
-# heapq.heappush(heapq_list,willPushValue) # heapq push 0 index push
+# heapq.heappush(heapq_list,willPushValue) # heapq push 결과는 오름차순
 
 ############################# My Code######################################
 
