@@ -24,7 +24,7 @@ __LEVEL II__
 | 10 | __더 맵게__                 |          6950 | https://programmers.co.kr/learn/courses/30/lessons/42626 |
 |  1 | 스킬트리                |          6217 | https://programmers.co.kr/learn/courses/30/lessons/49993 |
 | 19 | 카펫                    |          5917 | https://programmers.co.kr/learn/courses/30/lessons/42842 |
-|  7 | 최댓값과 최솟값         |          5693 | https://programmers.co.kr/learn/courses/30/lessons/12939 |
+|  7 | __최댓값과 최솟값__         |          5693 | https://programmers.co.kr/learn/courses/30/lessons/12939 |
 | 12 | 소수 찾기               |          5617 | https://programmers.co.kr/learn/courses/30/lessons/42839 |
 |  2 | 오픈채팅방              |          5399 | https://programmers.co.kr/learn/courses/30/lessons/42888 |
 |  8 | 최솟값 만들기           |          5035 | https://programmers.co.kr/learn/courses/30/lessons/12941 |
